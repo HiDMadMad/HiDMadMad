@@ -32,13 +32,12 @@ This document explains the naming conventions and file structure standards I fol
 - `memory_management.pdf`
 
 ### 📌 Important Root Files (GitHub Standards)
-**Format:** UPPERCASE + standard file names
+**Format:** `SCREAMING_SNAKE_CASE`
 
 ✍ Examples:
 - `README.md`
 - `LICENSE`
-- `TODO.md`
-- `CONTRIBUTING.md`
+- `SLEEP_CYCLE_GUIDE.md`
 
 ---
 
