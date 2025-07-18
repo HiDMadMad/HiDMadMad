@@ -43,9 +43,9 @@ This document explains the naming conventions and file structure standards I fol
 ---
 
 ## 💡 Notes
-- I’ve tried to keep all names clear, descriptive, and consistent.  
-- I avoid using ambiguous abbreviations.  
-- Temporary or personal files are isolated in separate folders or prefixed clearly.
+- 🤖 I’ve tried to keep all names clear, descriptive, and consistent.  
+- 👾 I avoid using ambiguous abbreviations.  
+- 🗑 Temporary or personal files are isolated in separate folders or prefixed clearly.
 ---
 
-Feel free to check out my repositories to see these guidelines in action!
+🗽 Feel free to check out my repositories to see these guidelines in action!
