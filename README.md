@@ -23,61 +23,3 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/XSw9XNW6)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mad_________Mad)  
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/MadMad666rn)
-
-
-# 🧠 Team Guide – Naming Conventions
-
-> این راهنما برای نظم‌دهی به پروژه‌ها، فایل‌ها و فولدرهای تیم طراحی شده.  
-**همه پروژه‌ها باید طبق این الگو نام‌گذاری و ساختاردهی بشن.**
-
----
-
-## 1. 🔹 Repository & Folder Naming
-
-**فرمت:** `kebab-case`  
-- فقط حروف کوچک  
-- جداکننده بین کلمات: `-`  
-- نام برند یا تیم (اختیاری): `madmad-`
-
-📌 Examples:
-- `madmad-cpp-handout`
-- `madmad-basic-computer`
-- `todo-app`
-- `portfolio-site`
-
-> 🚫 اشتباه: `TodoApp`, `todo_app`, `Todo-App`, `BasicCamputer` (غلط تایپی!)
-
----
-
-## 2. 🔹 File Naming
-
-### ✅ Code & Docs
-**فرمت:** `snake_case`  
-- فقط حروف کوچک  
-- جداکننده بین کلمات: `_`
-
-📌 Examples:
-- `bank_account.cpp`
-- `flow_chart_links.md`
-- `memory_management.pdf`
-
-### ✅ Important root files (GitHub Standard)
-**فرمت:** حروف بزرگ کامل  
-📌 Examples:
-- `README.md`
-- `LICENSE`
-- `TODO.md`
-- `CONTRIBUTING.md`
-
-> این فایل‌ها به‌صورت خودکار در GitHub شناسایی و نمایش داده می‌شن.
-
----
-
-## 💡 Notes
-- نام‌ها باید **شفاف، دقیق و بدون ابهام** باشن
-- از مخفف‌های غیرمعمول پرهیز کن
-- فایل‌های موقت و تست شخصی باید داخل پوشه‌های جدا یا با پیشوند مشخص باشن (مثلاً `_dev_notes/` یا `tmp_`)
-
----
-
-*در صورت عدم رعایت، احتمال ریویو مجدد، rename یا conflict در همکاری وجود دارد.*
