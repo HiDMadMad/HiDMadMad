@@ -1,4 +1,4 @@
-# 🧩 Madmad Repositories Naming & File Structure Guide
+# 🧩 MadMad Repositories Naming & File Structure Guide
 
 This document explains the naming conventions and file structure standards I follow across **all my GitHub repositories** to keep things clear and consistent.
 
