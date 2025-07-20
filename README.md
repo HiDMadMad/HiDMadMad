@@ -1,9 +1,8 @@
 # 💫 About Me:
-👀 hello world!<br>
-👤 I'm Mohamadreza, nicknamed MadMad.<br>
-🤖 I started coding with C and now I write MQL4 & MQL5 codes... <br>
-👾 I'm interested in Data Science & AI to improve my trading bots!<br>
-🐍 I also know Python and I'm working with C++.<br>
+👤 I'm Mohamadreza, nicknamed MadMad or MimRe.<br>
+🤖 I started coding with C and now write MQL4 & MQL5 scripts...<br>
+👾 interested in Data Science & AI to improve my trading bots!<br>
+🐍 skilled in Python, developing C++ skills.<br>
 
 
 
