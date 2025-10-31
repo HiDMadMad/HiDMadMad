@@ -12,9 +12,9 @@ This document explains the naming conventions and file structure standards I fol
 - Optionally, prefix repo names with `madmad-` for branding and clarity
 
 ✍ Examples:
-- `madmad-basic-computer`
+- `basic-computer`
 - `madmad-cpp-handout`
-- `todo-app`
+- `madmad-todo`
 - `portfolio-site`
 
 ---
