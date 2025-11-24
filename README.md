@@ -4,7 +4,7 @@
 🐍 skilled in Python, developing C++ skills<br>
 👾 learning and researching AI, focusing on CV<br>
 💣 passionate about combining CV, AR/VR, and Robotics<br>
-🤖 I also develop trading bots and tools using MQL4, MQL5, and Python<br>
+🤖 I also develop trading bots and tools using MQL4, MQL5 and Python<br>
 ♟ chess and basketball since childhood 🏀<br>
 
 
