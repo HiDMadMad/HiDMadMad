@@ -1,5 +1,5 @@
 # 💫 About Me:
-👤 I'm Mohamadreza, nicknamed MadMad or MimRe.<br>
+👤 I'm MohamadReza, nicknamed MadMad or MimRe.<br>
 💻 I started coding at 15 with C<br>
 🐍 skilled in Python, developing C++ skills<br>
 👾 learning and researching AI, focusing on CV<br>
