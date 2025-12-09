@@ -18,7 +18,7 @@
 
 # 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%2300A8E8.svg?logo=telegram&logoColor=white)](https://t.me/HiDMadMad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-reza-rahmanian)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-reza-rahmanian)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:madmadpv@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hidmadmad)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DpFcg3nS)
